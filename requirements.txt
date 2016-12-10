@@ -1,0 +1,6 @@
+bs4==0.0.1
+requests==2.12.3
+lxml==3.6.4
+flask==0.11.1
+paste==2.0.3
+twilio==6.3.dev0
